@@ -29,9 +29,4 @@ https://user-images.githubusercontent.com/70064084/165137664-b0cf9b66-f15a-4ec3-
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
     
-## Contributors
-
-- [@SakalyaMitra](https://github.com/Sakalya100)
-- [@SayanSaha](https://github.com/SayanSaha01)
-- [@SubhamBanerjee](https://github.com/SubhamSatan)
-- [@SatyakiBhattacharjee](https://github.com/GUNNER2K)
+![Winners ML-SPRINT](https://user-images.githubusercontent.com/75988493/166092894-5beddb05-93c1-44fb-89a9-c395d4bf62c9.png)
